@@ -1,0 +1,14 @@
+.background {
+    background-color: #000;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+    color:aliceblue
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

@@ -1,0 +1,14 @@
+.table{
+    background-color: #651717 ;
+    color: aliceblue;
+   width:400px ;
+   padding: 20px;
+   border-radius: 10px ;
+}
+.tittle{
+    text-align: center;
+}
+.background{
+    height: 100vh;
+    color: black;
+}
